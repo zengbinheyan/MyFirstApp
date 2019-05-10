@@ -24,7 +24,12 @@ namespace WindowsFormsApp2
 
         private void label1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("ddddddddd");
+            MessageBox.Show("ddddd");
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("ddddd");
         }
     }
 }
